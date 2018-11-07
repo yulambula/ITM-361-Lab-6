@@ -1,2 +1,2 @@
-# ITM-361-Lab-6
-ITM-361-Lab-6
+# ITMD-361-Lab-6
+ITMD-361-Lab-6
